@@ -3,14 +3,14 @@
     <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:android   = "http://schemas.android.com/apk/res/android"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "com.bsdmasterindex.phonegapgeneric-boilerplate"
+        id          = "com.bsdmasterindex.phonegap-mediaquery-test"
         version     = "1.1.2"
         versionCode = "10" >
         <!-- versionCode is optional and Android only -->
         <preference name="phonegap-version" value="3.5.0" />
 
-        <name>Phonegap Generic Boilerplate</name>
-        <description>Simple Generic Boilerplate</description>
+        <name>Phonegap Media Query Test</name>
+        <description>Simple Media Query Test</description>
         <author href="http://bsdmasterindex.com" email="jessemonroy650@yahoo.com">
         Jesse Monroy
         </author>
